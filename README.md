@@ -12,14 +12,15 @@ Develop an app to address three tasks:
 * Provide a Journey Planner taking into account, the neurodiverse user's level of sensitivity to the seven senses;
 * Allow users to switch from a journey map to a terrain viewer to help with spatial & depth perception challenges.
 
-## Working Prototype
-Here is the prototype at https://hiremaths.shinyapps.io/display/
+## Project Links
+* Prototype: https://hiremaths.shinyapps.io/display/
+* Presentation: https://prezi.com/sqldpzoyvo71/urbanjungles_healthhackathon_2016/
 
 ## Team
-Cindy Nicollet @cindy_nicollet</br>
+Cindy Nicollet <a href="http://twitter.com/cindy_nicollet">@cindy_nicollet</a></br>
 Elizabeth Gray</br>
-Sanjeev Hiremath @sanjeev_mh</br>
-Brian W Reaves @brianWreaves
+Sanjeev Hiremath <a href="http://twitter.com/sanjeev_mh">@sanjeev_mh</br>
+Brian W Reaves <a href="http://twitter.com/brianWreaves">@brianWreaves</a>
 
 ## License
 This is adaptation of the work of Fabio Veronesi with Google Maps
