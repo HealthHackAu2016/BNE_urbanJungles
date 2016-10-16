@@ -19,7 +19,7 @@ Develop an app to address three tasks:
 ## Team
 Cindy Nicollet <a href="http://twitter.com/cindy_nicollet">@cindy_nicollet</a></br>
 Elizabeth Gray</br>
-Sanjeev Hiremath <a href="http://twitter.com/sanjeev_mh">@sanjeev_mh</br>
+Sanjeev Hiremath <a href="http://twitter.com/sanjeev_mh">@sanjeev_mh</a></br>
 Brian W Reaves <a href="http://twitter.com/brianWreaves">@brianWreaves</a>
 
 ## License
