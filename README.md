@@ -16,9 +16,9 @@ Develop an app to address three tasks:
 Here is the prototype at https://hiremaths.shinyapps.io/display/
 
 ## Team
-Cindy Nicollet @cindy_nicollet
-Elizabeth Gray
-Sanjeev Hiremath @sanjeev_mh
+Cindy Nicollet @cindy_nicollet</br>
+Elizabeth Gray</br>
+Sanjeev Hiremath @sanjeev_mh</br>
 Brian W Reaves @brianWreaves
 
 ## License
