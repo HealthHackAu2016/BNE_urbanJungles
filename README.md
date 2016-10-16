@@ -15,6 +15,12 @@ Develop an app to address three tasks:
 ## Working Prototype
 Here is the prototype at https://hiremaths.shinyapps.io/display/
 
+## Team
+Cindy Nicollet @cindy_nicollet
+Elizabeth Gray
+Sanjeev Hiremath @sanjeev_mh
+Brian W Reaves @brianWreaves
+
 ## License
 This is adaptation of the work of Fabio Veronesi with Google Maps
 Copy Right: Fabio Veronesi and Google
