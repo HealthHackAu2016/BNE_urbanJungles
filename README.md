@@ -8,7 +8,7 @@ There are seven senses which can affect a person who is neurodiverse. For some, 
 There are no existing solutions provided in real time to allow a neurodiverse user to plan a journey or assist them whilst on their journey. There is some public data to establish a reference point for new users.
 
 ## Goals
-Develop an app to address three tasks:
+Develop an app to address two tasks:
 * Provide a Journey Planner taking into account, the neurodiverse user's level of sensitivity to the seven senses;
 * Allow users to switch from a journey map to a terrain viewer to help with spatial & depth perception challenges.
 
